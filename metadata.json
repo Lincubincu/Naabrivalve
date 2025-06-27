@@ -1,0 +1,7 @@
+{
+  "name": "Virtuaalne Naabrivalve",
+  "description": "Naabruskonna teadete, kuulutuste ja suhtlusplatvorm. Aitab tugevdada kogukonnatunnet ja jagada olulist infot.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
